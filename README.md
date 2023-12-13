@@ -40,3 +40,18 @@ To run the project locally, follow these steps:
 4. **Place the downloaded `creditcard.csv` file in the project directory:**
    - After downloading, move or copy the `creditcard.csv` file into the directory where you have cloned the project repository.
 
+## Dependencies
+The following Python libraries are required to run the Credit Card Fraud Detection project:
+
+- `pandas`
+- `seaborn`
+- `matplotlib`
+- `scikit-learn`
+- `xgboost`
+
+Install these dependencies using the following command:
+
+```bash
+pip install pandas seaborn matplotlib scikit-learn xgboost
+
+
