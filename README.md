@@ -24,10 +24,13 @@ The project is structured into several key components:
 5. **Model Evaluation:**
    - The notebook evaluates the model using standard machine learning metrics such as accuracy, precision, recall, F1 score, and the Area Under the Precision-Recall Curve (AUC-PRC).
 
-## Getting Started
+## Download the Dataset
 
-To run the project locally, follow these steps:
+1. **Go to Kaggle's Credit Card Fraud Detection dataset page:**
+   - [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+2. **Download the `creditcard.csv` file:**
+
+4. **Place the downloaded `creditcard.csv` file in the project directory:**
+   - After downloading, move or copy the `creditcard.csv` file into the directory where you have cloned the project repository.
+
